@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "奇跡を待ってたって",
+  "base_artist": "Saucy Dog",
+  "createdAt": "2026-01-06T17:11:50.458799Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "奇跡を待ってたって",
+      "artist": "Saucy Dog",
+      "has_synced": false,
+      "path": "select/pl_01_奇跡を待ってたって_Saucy_Dog.txt"
+    }
+  ]
+}
